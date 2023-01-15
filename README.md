@@ -1,0 +1,2 @@
+# ImplementingShell
+This project imitates the Linux Shell and its functionalities. On running the only .c file (containing more than 600 lines of code, made all from scratch) of our project in any Unix terminal(Mac/Linux), the executable again runs as a terminal and supports all the unix shell commands including  cd, . . (traversing back), mkdir, mv, exit, man, pwd,echo, grep, cat,  wget etc and also pipelining and redirecting commands results to other files.
